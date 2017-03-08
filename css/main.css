@@ -1,0 +1,113 @@
+.landing{
+	background: url(../assets/backgrounds/h_img.jpg) no-repeat center fixed;
+	background-size: cover;
+	height:650px;
+	text-align:center;
+	padding-top: 150px;
+	font-family:sans-serif;
+}
+h1{
+	font-size: 80px;
+	color: white;
+}
+
+.slanding{
+	font-size: 20px;
+	color: white;
+
+}
+.mclick{
+	padding-top: 80px;
+}
+
+#submit_button{
+	background-color: red;
+
+}
+.about{
+	background-color: white;
+	height: 350px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.sabout{
+	font-family: serif;
+	font-size: 14px;
+
+}
+
+.services{
+	background: url(../assets/backgrounds/s_image.jpg) no-repeat center fixed;
+	background-size: cover;
+	height: 400px;
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+}
+
+.sservices{
+	font-family: serif;
+	font-size: 14px;
+
+	}
+
+.wedo{
+	padding-top: 60px;
+	text-align: center;
+	height: 250px;
+}
+.col-md-4{
+	padding-top: 60px;
+	padding-bottom: 70px;
+}
+.portfolio{
+
+
+}
+.contuct{
+	background: url(../assets/backgrounds/c_image.jpg) no-repeat center fixed;
+	text-align: center;
+}
+
+
+
+.contact{
+    margin: 5em 0 0 0;
+}
+.col-md-6 input[type="text"] {
+	display: inline-block;
+	background: none;
+	border:solid 2px white;
+	width: 44%;
+	outline: none;
+	padding:1em;
+	font-size: .9em;
+	color: white;
+	margin-bottom: 1.5em;
+
+}
+
+.texta textarea {
+    display: inline-block;
+    background: none;
+    border: solid 2px white;
+    width: 73%;
+    outline: none;
+    padding: 1em;
+    font-size: .9em;
+    color: white;
+    margin-bottom: 1.5em;
+	resize:none;
+    min-height: 150px;
+
+}
+
+li{
+
+  display: inline;
+}
+.social{
+	padding-top: 50px;
+	text-align: center;
+}
